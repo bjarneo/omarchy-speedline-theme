@@ -83,3 +83,7 @@ To turn off all animations, open **Appearance › Animations** in the Omarchy me
 ## Requirements
 
 Speedline is made for Omarchy 4.5.
+
+## License
+
+Speedline is released under the [MIT License](LICENSE).
