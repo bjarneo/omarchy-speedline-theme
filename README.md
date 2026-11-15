@@ -2,7 +2,7 @@
 
 A theme for [Omarchy](https://omarchy.org) with comic-panel windows, sakura petals and speed lines. Windows and workspaces move diagonally, from the top left to the bottom right.
 
-![Speedline desktop with Neovim, Folio and fastfetch](screenshots/desktop.png)
+![Speedline desktop with a theme dashboard, a file listing and the cliamp music player](preview.png)
 
 ## Install
 
@@ -34,6 +34,8 @@ Omarchy removes `hyprland.lua` from a theme that it clones, because Hyprland run
 | Shadow | A hard ink shadow, offset down and to the right like a comic panel. |
 | Shell | The menu, launcher, notifications, popups, lock screen and polkit dialog get thin top and left edges and thick bottom and right edges. |
 | Wallpapers | Dusk power lines with a 6.5-second intro video, manga panels and moonlit petals. |
+
+![Speedline desktop with Neovim, Folio and fastfetch](screenshots/desktop.png)
 
 ![Close-up of the border: pink at the top left, cyan and the ink shadow at the bottom right](screenshots/border-detail.png)
 
