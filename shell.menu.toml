@@ -1,0 +1,15 @@
+# Comic-panel cards: thin top/left, thick bottom/right "ink" edge.
+background                = "#1c1636"
+background-alpha          = 1.0
+text                      = "#e9e0ff"
+border                    = "hyprland.active-border"
+border-alpha              = 1.0
+border-width              = "2 6 6 2"
+scrim                     = "#0e0a1e"
+scrim-alpha               = 0.55
+selected-background       = "#ff4fa3"
+selected-background-alpha = 0.16
+selected-text             = "#ffd93d"
+selected-border           = "#ff4fa3"
+selected-border-alpha     = 0.9
+selected-border-width     = "1 4 4 1"

@@ -1,0 +1,37 @@
+mode = "dark"
+
+# Speedline — anime night-pop. Sakura pink, star yellow, sky cyan on ink indigo.
+accent = "#ff4fa3"
+selection = "#3b2d6b"
+muted = "#5d5294"
+
+background = "#1c1636"
+dark_background = "#15102a"
+darker_background = "#0e0a1e"
+lighter_background = "#271f4a"
+
+foreground = "#e9e0ff"
+dark_foreground = "#8b82bf"
+light_foreground = "#f5efff"
+bright_foreground = "#ffffff"
+
+red = "#ff4d6d"
+yellow = "#ffd93d"
+orange = "#ff9a3c"
+green = "#5df2a8"
+cyan = "#3de1ff"
+blue = "#5aa9ff"
+magenta = "#c77dff"
+brown = "#b06a3b"
+
+bright_red = "#ff7a93"
+bright_yellow = "#ffe873"
+bright_green = "#8dffc4"
+bright_cyan = "#8af0ff"
+bright_blue = "#8cc4ff"
+bright_magenta = "#ff8fe0"
+
+# 45° pink → yellow → cyan streak. Feeds Hyprland borders and every shell
+# surface that points at hyprland.active-border.
+hyprland_active_border = "rgba(ff4fa3ff) rgba(ffd93dff) rgba(3de1ffff) 45deg"
+hyprland_inactive_border = "rgba(5d529488)"

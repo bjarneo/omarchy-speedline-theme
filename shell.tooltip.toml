@@ -1,0 +1,6 @@
+background       = "#0e0a1e"
+background-alpha = 0.97
+text             = "#ffd93d"
+border           = "#ff4fa3"
+border-alpha     = 1.0
+border-width     = "1 3 3 1"

@@ -1,0 +1,5 @@
+text                    = "#e9e0ff"
+selected-border         = "#ffd93d"
+selected-border-alpha   = 1.0
+unselected-border       = "#ff4fa3"
+unselected-border-alpha = 0.35
